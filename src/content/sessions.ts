@@ -831,7 +831,7 @@ Digital notes attached to specific regions of an image. They can include:
 - Scholarly commentary
 
 **Creating Annotations:**
-1. View the object in the IIIF viewer (Mirador)
+1. View the object in the IIIF viewer (OpenSeadragon)
 2. Hold Shift and click-drag to draw a region
 3. Enter your annotation text
 4. Save the annotation
